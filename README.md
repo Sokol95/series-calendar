@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1Pk2tdkPJbDKoal--aR898wPD_SlnSnKN?usp=sha
     Все выше перечисленные пункты!!!
 
 #### ссылка на apk файл:
- https://github.com/Sokol95/series-calendar/master/android/app/release/app-release.apk
+https://github.com/Sokol95/series-calendar/tree/master/android/app/release/app-release.apk
 
 #### инструкция по сборке
 * Переходим в папку android, затем прописываем команду ./gradlew assembleRelease
